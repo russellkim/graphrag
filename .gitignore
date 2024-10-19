@@ -12,6 +12,11 @@ tests/fixtures/*/cache
 tests/fixtures/*/output
 lancedb/
 
+# test 
+exp_lightrag/cache
+exp_lightrag/output
+exp_lightrag/input
+
 # Random
 .DS_Store
 *.log*
